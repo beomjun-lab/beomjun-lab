@@ -1,10 +1,29 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2beomjun-lab)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20&fontSize=90)
 
-<div align="center">
-	
-## 🌹 t e c h 🌹
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</div>
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=beomjun-lab&show_icons=true)
+
+
+<!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)-->
+
+---
+
+### 💁🏻‍♂️ Breif
+- Working as a **Back-end Engineer**
+- Mainly using **Java**
+
+### 💼 Experience
+- 
+- 
+
+<!--
+### :octocat: Contributions
+- **-** 
+  - (PR) -
+-->
+
+### 📄 Blogs
